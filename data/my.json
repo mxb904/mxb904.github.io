@@ -5,6 +5,11 @@
             "grandchildren":{
                 "grandgrandchildren":{
                     "name": "Alice"
+                    "Age": "confidential"
+                    "School": {
+                        "Location": "Somewhere"
+                        "Grade": "You find out"
+                    }
                 }
             }
         }
@@ -14,8 +19,14 @@
             "grandchildren":{
                 "grandgrandchildren":{
                     "name": "Bob"
+                    "Age": "confidential"
+                    "School": {
+                        "Location": "Somewhere"
+                        "Grade": "You find out"
+                    }
                 }
             }
         }
     }
 }
+
