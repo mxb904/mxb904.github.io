@@ -8,6 +8,14 @@
                 }
             }
         }
+    },
+    "mother":{
+        "children":{
+            "grandchildren":{
+                "grandgrandchildren":{
+                    "name": "Bob"
+                }
+            }
+        }
     }
 }
-
