@@ -4,10 +4,10 @@
         "children":{
             "grandchildren":{
                 "grandgrandchildren":{
-                    "name": "Alice"
-                    "param": "confidential"
+                    "name": "Alice",
+                    "others": "confidential",
                     "School": {
-                        "Location": "Somewhere"
+                        "Location": "Somewhere",
                         "Grade": "You find out"
                     }
                 }
@@ -18,10 +18,10 @@
         "children":{
             "grandchildren":{
                 "grandgrandchildren":{
-                    "name": "Bob"
-                    "param": "confidential"
+                    "name": "Bob",
+                    "others": "confidential",
                     "School": {
-                        "Location": "Somewhere"
+                        "Location": "Somewhere",
                         "Grade": "You find out"
                     }
                 }
