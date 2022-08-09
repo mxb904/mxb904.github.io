@@ -1,0 +1,8 @@
+{
+    "MW_Clusters": {
+        "children": [
+            "APECCD1_ecc_domain",
+            "APECCQ_ecc_domain",
+            "BI_DEV_bifoundation_domain"
+        ]
+    }
